@@ -1,4 +1,4 @@
-name: GitHub Actions Build Vuepress Demo
+name: GitHub Actions Build Vuepress
 on:
   push:
     branches:
@@ -15,7 +15,7 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: docs/.vuepress/dist
-        BUILD_SCRIPT: yarn install && yarn build
+        FOLDER: build
+        BUILD_SCRIPT: yarn install && vuepress build -d build 
 
 
