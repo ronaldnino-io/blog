@@ -17,5 +17,3 @@ jobs:
         BRANCH: gh-pages
         FOLDER: build
         BUILD_SCRIPT: yarn install && vuepress build -d build 
-
-
