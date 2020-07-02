@@ -13,4 +13,3 @@ El método Feynman se divide en 4 simples pasos:
 3. Revisa lo que no acabas de saber. Vuelve a la fuente de información, relee, y re-apréndelo. Repite el paso 2.
 
 4. Si utilizas un lenguaje confuso o simplemente estas reescribiendo la fuente con otras palabras, vuelvelo a hacer y así filtras el contenido. Simplifica tu lenguaje, y donde sea posible utiliza una analogía simple.
-
