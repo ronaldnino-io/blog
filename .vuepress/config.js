@@ -1,7 +1,7 @@
 module.exports =  {
     title: 'Ronald Niño',
     description: 'Aprendiz de tecnologías cloud',
-    base: "https://ronaldnino-io.github.io/blog/",
+    base: "/blog/",
     themeConfig: {
         nav: [
           { text: 'Inicio', link: '/' },
