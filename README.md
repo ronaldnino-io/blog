@@ -12,5 +12,5 @@ features:
   details: Es una disiplica que permite el desarrollar productos de software. Existen varios modelos que te permiten establecer procesos para el desarrollo del software y cada uno describe un enfoque diferente para diferentes actividades que tiene lugar durante el proceso.
 - title: UX & UI
   details: Entender como las personas perciben un producto o servicio al interacturar con ellos, es fundamental para lograr diseños útilies usables y deseables.
-footer: MIT Licensed | Copyright © 2020-Ronald Niño
+footer: MIT Licensed | Copyright © 2020-Ronald Niño - Esto es un cambio
 ---
