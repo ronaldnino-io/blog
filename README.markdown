@@ -1,3 +1,5 @@
-# Documentación par github
+# 📄 Blog personal. 
 
-Esto es una modificación de prueba para solucionar conflicto de documentación github y vuepress por la estructura de archivo.
+Es un proyecto implementando con vuepress; un generador de sitio estáico minimalista basado en la tecnología vue  y enfocado a realizar documentacíon de una forma limpia, sencilla y útilizando archivos markdown.
+
+ 

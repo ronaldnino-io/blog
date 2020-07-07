@@ -1,4 +1,4 @@
-# ¿Poque elegí el metodo feynman?
+# Feynman
 
 El método Feyman es un modelo mental, nombrado así en honor a Richar Feynman su creador. Este modelo nos va
 ayudar a aprender de una forma difrente, con el fin de entender y recordar conceptos de una 
